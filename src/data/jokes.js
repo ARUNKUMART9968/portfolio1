@@ -1,0 +1,2 @@
+// Jokes that appear when you click the face in the hero.
+export const JK = ["Click my face.","It works on my machine.","Fuelled by chai and CORS errors.","This bandana is load-bearing.","Arms crossed because the build passed.","git commit -m “final_final_v2”","404: sleep not found.","Hire me. I’ll even fix your CORS.","Have you tried turning it off and on again?","99 bugs in the code, take one down, patch it around, 127 bugs in the code."];
